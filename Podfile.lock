@@ -1,0 +1,101 @@
+PODS:
+  - APIKit (5.0.0)
+  - Differentiator (3.1.0)
+  - FontAwesome.swift (1.9.1)
+  - Himotoki (4.0.0)
+  - IQKeyboardManagerSwift (6.3.0)
+  - R.swift (5.0.3):
+    - R.swift.Library (~> 5.0.0)
+  - R.swift.Library (5.0.1)
+  - Reachability (3.2)
+  - Realm (3.18.0):
+    - Realm/Headers (= 3.18.0)
+  - Realm/Headers (3.18.0)
+  - RealmSwift (3.18.0):
+    - Realm (= 3.18.0)
+  - RxAtomic (4.4.2)
+  - RxCocoa (4.4.2):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxRealm (0.7.6):
+    - RealmSwift (~> 3.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.2):
+    - RxAtomic (>= 4.4.2, ~> 4.4)
+  - SnapKit (4.2.0)
+  - SwiftDate (5.1.0)
+  - SwiftLint (0.29.4)
+  - Swinject (2.6.1)
+  - SwinjectStoryboard (2.2.0):
+    - Swinject (~> 2.6)
+
+DEPENDENCIES:
+  - APIKit (~> 5.0.0)
+  - FontAwesome.swift
+  - Himotoki (~> 4.0.0)
+  - IQKeyboardManagerSwift (= 6.3.0)
+  - R.swift (= 5.0.3)
+  - Reachability
+  - RealmSwift (~> 3.18.0)
+  - RxCocoa (~> 4.4.2)
+  - RxDataSources (~> 3.1.0)
+  - RxRealm (= 0.7.6)
+  - RxSwift (~> 4.4.2)
+  - SnapKit (~> 4.2.0)
+  - SwiftDate (~> 5.0)
+  - SwiftLint (~> 0.29.0)
+  - Swinject (= 2.6.1)
+  - SwinjectStoryboard (= 2.2.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - APIKit
+    - Differentiator
+    - Himotoki
+    - IQKeyboardManagerSwift
+    - R.swift
+    - R.swift.Library
+    - Reachability
+    - Realm
+    - RealmSwift
+    - RxAtomic
+    - RxCocoa
+    - RxDataSources
+    - RxRealm
+    - RxSwift
+    - SnapKit
+    - SwiftDate
+    - SwiftLint
+    - Swinject
+    - SwinjectStoryboard
+  trunk:
+    - FontAwesome.swift
+
+SPEC CHECKSUMS:
+  APIKit: b27d79b022733b2f50e7a092e67c4cb9ea30f968
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  FontAwesome.swift: 6b52cb7be66eacd28cbfaa0ca7ffd0de4a186a1d
+  Himotoki: 966c1ce4fe08eb36994cd0a7078bb444b7df4f42
+  IQKeyboardManagerSwift: a8228c257614af98743b4cd8584637025f36358f
+  R.swift: f5a87643b91ea569d23d6afb3eee9c743edde239
+  R.swift.Library: cfe85d569d9bae6cb262922db130e7c3a7a5fad1
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  Realm: 7b3d04740facf45e958a514b466a32b04f1113d6
+  RealmSwift: c817b5f374668cf08f649afb05f55d92a787649c
+  RxAtomic: d00e97c10db88c6f08540e0bf2752fc5a2404167
+  RxCocoa: 477990dc3b4c3ff55fb0ac77e1cc06244e0aaec8
+  RxDataSources: a843bad90c29817f5923ec8163f4af2de084ceb3
+  RxRealm: 5379eddd74f8d617ca7681d1f8d144af25b432b0
+  RxSwift: 74c29b693c8e42b0f64400e8b06564575742d649
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftDate: 6329e58969a2de31cea7f1ee1143b247693196e7
+  SwiftLint: 73f2ecfd0f6d812c8cb9a73c00fe809bc2504585
+  Swinject: b624462f47b635a64f89a60a247baa5fccec14e1
+  SwinjectStoryboard: 32512ef16c2b0ff5b8f823b23539c4a50f6d3383
+
+PODFILE CHECKSUM: f134387c89051d146a5b5c66599b2db4c5f2aac8
+
+COCOAPODS: 1.10.1
